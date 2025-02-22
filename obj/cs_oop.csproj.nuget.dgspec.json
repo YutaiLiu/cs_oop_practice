@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yutailiu/Desktop/Job/cs_OOP/cs_oop.csproj": {}
+    "/Users/yutailiu/Desktop/Job/cs_OOP/cs_OOP.csproj": {}
   },
   "projects": {
-    "/Users/yutailiu/Desktop/Job/cs_OOP/cs_oop.csproj": {
+    "/Users/yutailiu/Desktop/Job/cs_OOP/cs_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yutailiu/Desktop/Job/cs_OOP/cs_oop.csproj",
-        "projectName": "cs_oop",
-        "projectPath": "/Users/yutailiu/Desktop/Job/cs_OOP/cs_oop.csproj",
+        "projectUniqueName": "/Users/yutailiu/Desktop/Job/cs_OOP/cs_OOP.csproj",
+        "projectName": "cs_OOP",
+        "projectPath": "/Users/yutailiu/Desktop/Job/cs_OOP/cs_OOP.csproj",
         "packagesPath": "/Users/yutailiu/.nuget/packages/",
         "outputPath": "/Users/yutailiu/Desktop/Job/cs_OOP/obj/",
         "projectStyle": "PackageReference",
