@@ -1,0 +1,14 @@
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.AssemblyInfoInputs.cache
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.AssemblyInfo.cs
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.csproj.CoreCompileInputs.cache
+/Users/yutailiu/Desktop/Job/cs_OOP/bin/Debug/net8.0/cs_OOP
+/Users/yutailiu/Desktop/Job/cs_OOP/bin/Debug/net8.0/cs_OOP.deps.json
+/Users/yutailiu/Desktop/Job/cs_OOP/bin/Debug/net8.0/cs_OOP.runtimeconfig.json
+/Users/yutailiu/Desktop/Job/cs_OOP/bin/Debug/net8.0/cs_OOP.dll
+/Users/yutailiu/Desktop/Job/cs_OOP/bin/Debug/net8.0/cs_OOP.pdb
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.dll
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/refint/cs_OOP.dll
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.pdb
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/cs_OOP.genruntimeconfig.cache
+/Users/yutailiu/Desktop/Job/cs_OOP/obj/Debug/net8.0/ref/cs_OOP.dll
